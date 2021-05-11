@@ -1,0 +1,6 @@
+#
+# test01.txt - Tester la commande quit
+# cmd: quit WAIT
+#
+quit
+WAIT

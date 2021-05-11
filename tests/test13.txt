@@ -1,0 +1,5 @@
+#
+# test13.txt - Test non-existant file for input redirection
+# cmd : grep "loup" < coucou
+#
+grep "loup" < coucou

@@ -1,0 +1,5 @@
+#
+# test11.txt - Test giberish command
+# cmd : bfygeskf cdkfheu dkfshg
+#
+bfygeskf cdkfheu dkfshg

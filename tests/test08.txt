@@ -1,0 +1,5 @@
+#
+# test08.txt - Test multiple pipes
+# cmd : cat tests/titi.txt | grep a | wc -l | cat
+#
+cat tests/titi.txt | grep a | wc -l | cat

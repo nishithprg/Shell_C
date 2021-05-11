@@ -1,0 +1,5 @@
+#
+# test12.txt - Test a non-existant file for output redirection (creates a new file)
+# cmd : ls -la > pouet
+#
+ls -la > pouet

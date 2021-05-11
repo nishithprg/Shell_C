@@ -1,0 +1,5 @@
+#
+# test06.txt - Test input, output redirection and pipes
+# cmd : wc -l < tests/titi.txt | cat > tests/toto.txt
+#
+wc -l < tests/titi.txt | cat > tests/toto.txt

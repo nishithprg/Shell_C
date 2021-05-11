@@ -1,0 +1,7 @@
+#
+# test10.txt - Test background preccess
+# cmd : sleep 2 & sleep 5 ls
+#
+sleep 2 &
+sleep 5
+ls

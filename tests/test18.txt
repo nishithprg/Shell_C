@@ -1,0 +1,6 @@
+#
+# test18.txt - Test the ctrl-z signal
+# cmd : sleep 1 ctrl-z
+#
+SLEEP 1
+TSTP

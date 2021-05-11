@@ -1,0 +1,6 @@
+#
+# test17.txt - Test the ctrl-c signal
+# cmd : sleep 1 ctrl-c
+#
+SLEEP 1
+INT

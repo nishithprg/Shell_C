@@ -1,0 +1,5 @@
+#
+# test07.txt - Test output redirection and pipes
+# cmd : ls tests | grep .txt > tests/toto.txt
+#
+ls tests | grep .txt > tests/toto.txt

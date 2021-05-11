@@ -1,0 +1,10 @@
+#
+# test15.txt - Test the jobs command
+# cmd : sleep 10 & sleep 8 & sleep 6 & sleep 10 echo hei jobs
+#
+sleep 10 &
+sleep 8 &
+sleep 6 &
+sleep 10
+echo hei
+jobs

@@ -1,0 +1,7 @@
+#
+# test14.txt - Test background proccess termination
+# cmd : sleep 3 & echo "hey there" sleep 6
+#
+sleep 3 &
+echo "hey there"
+sleep 6

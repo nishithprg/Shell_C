@@ -1,0 +1,5 @@
+#
+# test05.txt - Test input redirection
+# cmd : grep a < tests/titi.txt | cat
+#
+grep a < tests/titi.txt | cat
